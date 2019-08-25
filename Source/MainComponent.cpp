@@ -17,7 +17,7 @@ MainComponent::MainComponent()
 MainComponent::~MainComponent()
 {
 }
-
+// bla
 //==============================================================================
 void MainComponent::paint (Graphics& g)
 {
